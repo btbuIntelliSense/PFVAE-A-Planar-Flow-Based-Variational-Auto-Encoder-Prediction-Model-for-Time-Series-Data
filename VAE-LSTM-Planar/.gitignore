@@ -1,0 +1,9 @@
+*pyc
+.ipynb_checkpoints/
+.idea/
+
+experiment_log.txt
+
+snapshots
+
+*env*
