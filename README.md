@@ -1,5 +1,5 @@
 # PFVAE-A-Planar-Flow-Based-Variational-Auto-Encoder-Prediction-Model-for-Time-Series-Data
-## Link Paper  
+## Link to paper  
 https://www.mdpi.com/2227-7390/10/4/610  
 ## runnning code  
 The ``PFVAE.py`` main program under ``VAE LSTM planar file`` is a neural network model based on ``Planar`` combining ``LSTM ``and ``VAE``. PM2.5 data, temperature data and humidity data are input into this program to predict, and the prediction results are obtained and saved locally.    
