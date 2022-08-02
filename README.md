@@ -11,3 +11,7 @@ The ``PFVAE.py`` main program under ``VAE LSTM planar file`` is a neural network
 ``quxiantu. py`` is mainly a program to draw corresponding prediction curves according to the prediction results of each model.  
   
 ``fenbutu. py`` mainly applies the standardized flow method to complicate the simulated simple Gaussian distribution into a relatively complex distribution.  
+## Data set
+```
+guanyuan.csv
+```
