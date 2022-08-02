@@ -8,6 +8,6 @@ The ``PFVAE.py`` main program under ``VAE LSTM planar file`` is a neural network
   
 ``violin_ Fig.py`` is mainly used to draw violin pictures.    
   
-``quxiantu. py`` is mainly a program to draw corresponding prediction curves according to the prediction results of each model, mainly corresponding to figures 5, 8 and 11 in the text.  
+``quxiantu. py`` is mainly a program to draw corresponding prediction curves according to the prediction results of each model.  
   
 ``fenbutu. py`` mainly applies the standardized flow method to complicate the simulated simple Gaussian distribution into a relatively complex distribution.  
