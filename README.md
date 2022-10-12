@@ -1,4 +1,10 @@
 # PFVAE-A-Planar-Flow-Based-Variational-Auto-Encoder-Prediction-Model-for-Time-Series-Data
+## Abstract
+Prediction based on time series has a wide range of applications. Due to the complex nonlinear and random distribution of time series data, the performance of learning prediction models can be reduced by the modeling bias or overfitting. This paper proposes a novel planar flow-based variational auto-encoder prediction model (PFVAE), which uses the long- and short-term memory network (LSTM) as the auto-encoder and designs the variational auto-encoder (VAE) as a time series data predictor to overcome the noise effects. In addition, the internal structure of VAE is transformed using planar flow, which enables it to learn and fit the nonlinearity of time series data and improve the dynamic adaptability of the network. The prediction experiments verify that the proposed model is superior to other models regarding prediction accuracy and proves it is effective for predicting time series data.
+## Author
+Jin, Xue-Bo, Wen-Tao Gong, Jian-Lei Kong, Yu-Ting Bai, and Ting-Li Su.
+## Cite this paper
+Jin, Xue-Bo, Wen-Tao Gong, Jian-Lei Kong, Yu-Ting Bai, and Ting-Li Su. 2022. "PFVAE: A Planar Flow-Based Variational Auto-Encoder Prediction Model for Time Series Data" Mathematics 10, no. 4: 610. https://doi.org/10.3390/math10040610
 ## Link to paper  
 https://www.mdpi.com/2227-7390/10/4/610  
 ## runnning code  
