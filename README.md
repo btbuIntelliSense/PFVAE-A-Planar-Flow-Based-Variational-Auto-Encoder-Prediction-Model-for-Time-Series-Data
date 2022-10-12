@@ -4,7 +4,7 @@ Prediction based on time series has a wide range of applications. Due to the com
 ## Author
 Jin, Xue-Bo, Wen-Tao Gong, Jian-Lei Kong, Yu-Ting Bai, and Ting-Li Su.
 ## Cite this paper
-Jin, Xue-Bo, Wen-Tao Gong, Jian-Lei Kong, Yu-Ting Bai, and Ting-Li Su. 2022. "PFVAE: A Planar Flow-Based Variational Auto-Encoder Prediction Model for Time Series Data" Mathematics 10, no. 4: 610. https://doi.org/10.3390/math10040610
+Jin, Xue-Bo, Wen-Tao Gong, Jian-Lei Kong, Yu-Ting Bai, and Ting-Li Su. 2022. "PFVAE: A Planar Flow-Based Variational Auto-Encoder Prediction Model for Time Series Data" Mathematics 10, no. 4: 610.
 ## Link to paper  
 https://www.mdpi.com/2227-7390/10/4/610  
 ## runnning code  
